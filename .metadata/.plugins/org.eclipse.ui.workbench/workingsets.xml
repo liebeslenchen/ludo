@@ -7,14 +7,15 @@
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1369225305964_3" label="Ex08" name="Ex08">
 <item elementID="=08_WS_OnlineBankingSystem" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
-<item elementID="=08_WS_OnlineBankingWebServiceClient" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/08_WS_XbankEAR" type="4"/>
+<item elementID="=08_WS_OnlineBankingWebServiceClient" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1369223141386_1" label="Window Working Set" name="Aggregate for window 1369223141386"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1369225318263_4" label="Multiple Working Sets" name="Aggregate:Ex08:LudoWS:">
 <workingSet IMemento.internal.id="Ex08"/>
 <workingSet IMemento.internal.id="LudoWS"/>
 </workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1369228324826_4" label="Window Working Set" name="Aggregate for window 1369228324826"/>
 <mruList name="Ex08"/>
 <mruList name="LudoWS"/>
 </workingSetManager>

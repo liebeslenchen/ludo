@@ -1,0 +1,9 @@
+package de.ludo.user;
+
+public class Dungeonmaster extends Player{
+
+	private static final long serialVersionUID = 1L;
+	
+	
+
+}

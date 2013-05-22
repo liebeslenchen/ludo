@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="de.ludo.gaming.LudoOnlineService"/>
+<fullyQualifiedTypeName name="de.ludo.gaming.LudoOnlineIntegration"/>
+<fullyQualifiedTypeName name="de.ludo.user.User"/>
+<fullyQualifiedTypeName name="de.ludo.user.Visitor"/>
+<fullyQualifiedTypeName name="de.ludo.user.Player"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="de.ludo.game.Game"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="de.ludo.util.IdGen"/>
+</qualifiedTypeNameHistroy>
